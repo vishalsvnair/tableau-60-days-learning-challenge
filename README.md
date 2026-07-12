@@ -76,10 +76,7 @@ If you find this repository helpful, please consider giving it a **⭐
 Star**. Your support motivates me to continue creating free learning
 resources for the data community.
 
-## 📬 Connect With Me
 
-Feel free to connect with me on LinkedIn or follow my GitHub profile for
-more data analytics content and projects.
 
 ------------------------------------------------------------------------
 
